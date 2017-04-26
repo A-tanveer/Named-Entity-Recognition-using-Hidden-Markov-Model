@@ -1,0 +1,11 @@
+নিউজ|B-ORG ডেস্ক|E-ORG সড়ক|other দুর্ঘটনা|other রোধে|other প্রধানমন্ত্রী|B-ORG কার্যালয়ের|E-ORG অধীনে|other একটি|other শক্তিশালী|B-ORG সেল|E-ORG গঠনের|other আহ্বান|other জানিয়েছেন|other নিরাপদ|B-ORG সড়ক|I-ORG চাই’র|E-ORG চেয়ারম্যান|DESIG ইলিয়াস|B-MALE কাঞ্চন|E-MALE
+স্থানীয়|B-ORG সরকার|E-ORG সড়ক|B-ORG ও|I-ORG সেতু|E-ORG স্বরাষ্ট্র|ORG আইন|ORG স্বাস্থ্য|ORG ভূমি|ORG শিক্ষা|ORG অর্থ|B-ORG পরিকল্পনা|I-ORG মন্ত্রণালয়সহ|I-ORG সংশ্লিষ্ট|I-ORG বিভাগ|I-ORG ও|I-ORG অধিদফতরের|I-ORG সমন্বয়ে|other এই|other সেল|other গঠনের|other পরামর্শ|other দেন|other তিনি|other
+সেলের|other সম্পূর্ণ|other নিয়ন্ত্রণ|other থাকবে|other প্রধানমন্ত্রীর|DESIG হাতে|other
+তিনি|other বলেন|other সড়কের|other বিদ্যমান|other সকল|other সমস্যার|other নিরসন|other করতে|other হলে|other অগ্রাধিকার|other ভিত্তিতে|other এই|other সেল|other গঠন|other জরুরি|other 
+বৃহস্পতিবার|other ঢাকা|B-ORG রিপোর্টার্স|I-ORG ইউনিটির|E-ORG ভিআইপি|B-PLACE মিলনায়তনে|E-PLACE এক|other সংবাদ|other সম্মেলনে|other ইলিয়াস|B-MALE কাঞ্চন|E-MALE এ|other কথা|other বলেন|other
+জাতীয়|other নিরাপদ|other সড়ক|other দিবস|other ২০১৬|other এবং|other ইলিয়াস|B-MALE কাঞ্চনের|E-MALE স্ত্রী|DESIG জাহানারা|B-FEM কাঞ্চনের|E-FEM ২৩তম|other মৃত্যুবার্ষিকী|other উপলক্ষে|other গৃহীত|other কর্মসূচি|other তুলে|other ধরতে|other এই|other সংবাদ|other সম্মেলনের|other আয়োজন|other করা|other হয়|other
+ইলিয়াস|B-MALE কাঞ্চন|E-MALE বলেন|other উন্নয়ন|other পরিকল্পনাতে|other স্বচ্ছতা|other অতি|other জরুরি|other
+আর|other এই|other পরিকল্পনায়|other সংশ্লিষ্ট|other বিভাগ|other কিংবা|other মন্ত্রণালয়ের|other সর্তকতা|other অবলম্বন|other করেই|other পরিকল্পনা|other সাজাতে|other হবে|other 
+অন্যথায়|other এই|other পরিকল্পনা|other কোন|other কাজে|other আসবে|other না|other 
+সংবাদ|other সম্মেলনে|other অন্যান্যের|other মধ্যে|other উপস্থিত|other ছিলেন|other লিটন|MALE এরশাদ|MALE সাদেক|B-MALE হোসেন|I-MALE বাবুল|E-MALE সোহানুর|B-MALE রহমান|I-MALE সোহান|E-MALE লায়ন|B-MALE গনি|I-MALE মিয়া|I-MALE বাদল|E-MALE এরফানুল|B-MALE হক|I-MALE নাহিদ|E-MALE ইলিয়াস|B-MALE কাঞ্চনের|E-MALE একমাত্র|other সন্তান|other সিরাজুল|B-MALE মঈন|I-MALE জয়|E-MALE প্রমুখ|other
+সংবাদটি|other শেয়ার|other করুন|other ফেইসবুক|ORG টুইটার|ORG গুগল|B-ORG প্লাস|E-ORG ইমেইল|ORG
